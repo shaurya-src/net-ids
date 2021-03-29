@@ -1,5 +1,5 @@
 <code>
-  <h1 align="center">Project Title </h1>
+  <h1 align="center">Network IDS Analysis </h1>
 </code>
 
 <!-- For logo -->
@@ -31,9 +31,9 @@ if __name__ == '__main__':
 
 # Features
 
-![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/Web-Automation?logo=GitHub&style=flat-square)
-![License](https://img.shields.io/github/license/shaurya-src/Web-Automation?logo=GitLab&style=flat-square)
-![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/Web-Automation?logo=Git&style=flat-square)
+![RepoSize](https://img.shields.io/github/repo-size/shaurya-src/net-ids?logo=GitHub&style=flat-square)
+![License](https://img.shields.io/github/license/shaurya-src/net-ids?logo=GitLab&style=flat-square)
+![LastCommit](https://img.shields.io/github/last-commit/shaurya-src/net-ids?logo=Git&style=flat-square)
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
