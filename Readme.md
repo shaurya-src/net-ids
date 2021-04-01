@@ -125,7 +125,7 @@ Any contributions you make are **greatly appreciated**.
 
 ## <a name="license"> License
 
-*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/repo-template/blob/main/LICENSE) file for more info.
+*Project* is available under the MIT license. See the [LICENSE](https://github.com/shaurya-src/net-ids/blob/main/LICENSE) file for more info.
 
 ## <a name="author"> Author
 <!---
@@ -168,4 +168,3 @@ Any contributions you make are **greatly appreciated**.
     <img src="https://github.com/shaurya-src/repo-template/blob/main/Assets/Logos/twitter.svg" width="30" height="30" hspace="20">
   </a>
 </p>
-
