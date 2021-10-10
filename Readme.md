@@ -13,21 +13,7 @@
 
 ## What is the `Project`?
 
-`Project` is Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
-
-```python
-def main()
-    text = "Hello World!"
-    return text
-
-if __name__ == '__main__':
-    text = main()
-    print(text)
-```
+`Intrusion detection` has become a major concern in the field of network security and administration. Considering intrusion as a security threat, a network needs a system which protects it from known vulnerabilities and unknown vulnerabilities for efficient functioning of the network. So, we are developing an Intrusion detection system which is accurate up to some extent in detecting attacks with a possible minimum number of false positives.
 
 # Features
 
@@ -37,17 +23,9 @@ if __name__ == '__main__':
 
 <img src="https://media.giphy.com/media/xT0Gqn9yuw8hnPGn5K/giphy.gif" align="right" width="300" height="300">
 
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] Lorem ipsum dolor sit amet
-- [x] *And More...*
-
 # Contents
 
 - [Project Details](#project-info)
-- [Usage](#usage)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Contribute](#contri)
@@ -57,50 +35,24 @@ if __name__ == '__main__':
 
 # <a name="project-info"> Project Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ut porttitor risus, in ultricies arcu. Donec justo ligula, faucibus sed gravida sit
-amet, pulvinar a leo. Ut porta volutpat sem non tempor. Mauris sit amet arcu vitae justo blandit semper. Ut faucibus vestibulum pulvinar.
-Praesent hendrerit dapibus dolor nec volutpat. Vivamus tristique rutrum convallis. Praesent dignissim sed est ut pharetra. Donec
-hendrerit ante eget lorem aliquet lacinia. Vivamus vel quam ut ante eleifend maximus a in est. Donec id nisi tincidunt, aliquam augue et,
-pretium ligula. Sed gravida in justo id iaculis. Vestibulum at quam a ligula rhoncus fermentum.
+Intrusion is considered to compromise the integrity, confidentiality, or availability of valuable assets on the computer systems. An intrusion detection system (IDS) audits the traffic flowing in the network for suspicious activity. It then alerts the system administrator when any malicious activity is discovered in the network. The primary functions of intrusion detection systems are discovering anomalies and producing detailed reports for the intrusions discovered. An IDS is a programmable software that is developed to detect intrusions within the network.
 
-In addition, you can also customize the following properties according to the need.
-
-- Lorem ipsum
-- Lorem ipsum
-- Lorem ipsum
-
-# <a name="usage"> Usage
-
-1. ***Lorem Ipsum***
-
-`Project` is designed to be easy to use. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-2. ***Lorem Ipsum***
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-3. ***Lorem Ipsum***
-
-Finally, call `func(arg)` in `main()`
-
-```python
-def func(arg):
-    return arg
-
-func(input())
-```
+It is employed to hunt and pinpoint the intruders causing chaos within the network. The main principles of IDS are integrity, availability, confidentiality and accountability. An IDS is built using both software and hardware. It can detect highly dangerous intrusions within the network. The main purpose of IDS is to detect unauthorized packets and malicious communications that happen in computer systems and networks. The most vital ingredient for the success of intrusion detection systems is feature selection.
 
 ## <a name="requirements"> Requirements
 
-- Xcode 10.2.1
-- Swift 5.0
+- Pandas
+- Numpy
+- Sklearn
+- Matplotlib
 
 ## <a name="installation"> Installation
 
 Follow these steps to use *this project*.
 
 1. Clone the repository.
-2. Lorem ipsum
+2. Install all the requirements.
+3. Run the Jupyter Notebook.
 
 ## <a name="contri"> Contribute
 
@@ -119,7 +71,7 @@ Any contributions you make are **greatly appreciated**.
   <img src="https://img.shields.io/badge/Editor-VS_Code-success?style=flat-square&logo=Visual-Studio-Code&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Windows-10-success?style=flat-square&logo=Windows&logoColor=white">
 
-  <img src="https://img.shields.io/badge/Library-TensorFlow-success?style=flat-square&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/Library-ScikitLearn-success?style=flat-square&logo=scikit-learn&logoColor=white&color=blue">
   <img src="https://img.shields.io/badge/Library-Matplotlib-success?style=flat-square&logo=GraphQL&logoColor=white&color=purple">
 </p>
 
